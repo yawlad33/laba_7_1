@@ -11,7 +11,7 @@ int main() {
 
 
     double x, y;
-    cout << "Ââåäèòå äâà ÷èñëà: ";
+    cout << "Ğ’Ğ²ĞµĞ´Ğ¸Ñ‚Ğµ Ğ´Ğ²Ğ° Ñ‡Ğ¸ÑĞ»Ğ°: ";
     cin >> x >> y;
     cout << garmon(x, y);
 
